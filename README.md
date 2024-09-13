@@ -1,5 +1,3 @@
-# Food_and_Beverage_Sales-Analysis-Dashboard
-Power BI Dashboard
 # Food and Beverage Sales Analysis Dashboard in Power BI :
 
 * Sales Analysis Overview:
